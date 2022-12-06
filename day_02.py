@@ -71,7 +71,7 @@ def round_logic(round_outcome, their):
     """
     X means we need to lose
     Y means we need to draw
-    Z means we need to wom
+    Z means we need to won
 
     :param round_outcome: chr [X, Y or Z]
     :param their: Rock, Paper, Scissors
